@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, React Native, Tailwind CSS, MongoDB**
+- 🔭 I’m currently working on **React, React Native, Tailwind CSS**
 
 - 🌱 I’m currently learning **Full stack web developer course E English.**
 
@@ -33,7 +33,7 @@
 
 - 📝 I am regularly learning refresher courses for my career as a web developer
 
-- 💬 Ask me about **react, react-native, nodejs, mongoDB, Npm, CSS, HTML**
+- 💬 Ask me about **react, react-native, nodejs, Npm, CSS, HTML**
 
 - 📫 Feel free to reach me out **null**
 
@@ -84,7 +84,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,discord,figma,github,html,idea,js,linux,md,mongodb,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,discord,figma,github,html,idea,js,linux,md,nodejs,py,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
